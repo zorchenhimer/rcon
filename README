@@ -1,0 +1,5 @@
+This is a simple remote console (rcon) client for Quake 2 servers (and its
+derivatives.
+
+I put this together in a weekend as a little side project.  Everything here is
+released under the MIT License.
