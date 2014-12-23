@@ -1,0 +1,6 @@
+# Configured Servers
+---
+one:
+  address: "localhost"
+  port: 27910
+  password: "password"
